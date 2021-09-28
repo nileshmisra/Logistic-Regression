@@ -1,1 +1,1 @@
-# Logistic-Regression
+# Survival Prediction using Logistic Regression
